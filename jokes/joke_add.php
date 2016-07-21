@@ -10,10 +10,10 @@
 	<div class="container">
 		<div class="content">
 			<form action="" method="POST">
-		<textarea name="message" class="form-control" rows="5" placeholder="Введем шуточку?"></textarea>
-		<input name="add" type="submit" value="Добавляем">
+				<textarea name="message" class="form-control" rows="5" placeholder="Введем шуточку?"></textarea>
+				<input name="add" type="submit" value="Добавляем">
+			</form>
 		</div>
-	</form>
 		<?php
 			include('connect_to_db.php');
 			if(isset($_POST['add'])){
