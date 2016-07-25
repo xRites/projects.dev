@@ -1,0 +1,40 @@
+.navbar{
+	margin-bottom: 0px !important;
+}
+a{
+	color: #F80;
+}
+.breadcrumb{
+	margin-bottom: 0px !important;
+}
+.nav_left{
+	padding-left: 0px !important;
+	width: 15.667%;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+	background: #f80;
+}
+.nav.nav-pills.nav-stacked{
+	margin-top: 10px;
+}
+.work_space{
+	margin-top: 10px;
+	height: 100%;
+}
+.content{
+		background: #F8F8F8;
+}
+html, body, .container, .aside , .nav_left, .content {
+    height: 100%;
+}
+a:hover, a:focus{
+	color: #f80;
+}
+.btn-primary{
+	background: #f80;
+	border-color: #ED8712;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+	background: #FF7200;
+	border-color: #ED8712;
+}
