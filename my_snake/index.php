@@ -13,7 +13,7 @@
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#">
-					<img alt="xRites" src="...">
+					<img alt="xRites">
 				</a>
 			</div>
 		</div>

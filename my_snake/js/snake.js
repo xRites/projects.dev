@@ -75,7 +75,7 @@ else if(d == "down")ny++;
 if(nx == -1 || nx == w/cw || ny == -1 || ny == h/cw || check_collision(nx, ny, snake))
 {
 	
-	alert('Вы проиграли! Ваш счет '+score+' очков!');
+	alert('Вы проиграли! Ваш счет '+score);
 	init();
 	return;
 }
